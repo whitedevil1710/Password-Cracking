@@ -19,3 +19,8 @@ Let&#39;s save the hash in a file.
 ![](https://github.com/whitedevil1710/Password-Cracking/blob/main/hash2.png)
 
 Let&#39;s crack the password
+
+```
+john hash.txt
+```
+We wil get the cracked password.
