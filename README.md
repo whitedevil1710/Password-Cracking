@@ -21,6 +21,6 @@ Let&#39;s save the hash in a file.
 Let&#39;s crack the password
 
 ```
-john hash.txt
+john hash.hash
 ```
 We wil get the cracked password.
